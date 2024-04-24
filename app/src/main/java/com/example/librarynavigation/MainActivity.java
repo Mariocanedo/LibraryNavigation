@@ -11,8 +11,10 @@ import androidx.core.view.WindowInsetsCompat;
 import com.example.librarynavigation.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
+
     private ActivityMainBinding mBinding;
     // comentarios nuevos en acitivity
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
