@@ -18,7 +18,7 @@ import com.example.librarynavigation.databinding.FragmentABinding;
  * Use the {@link A#newInstance} factory method to
  * create an instance of this fragment.
  */
-public class A extends Fragment {
+public class gitA extends Fragment {
 
    private FragmentABinding mBinding;
 
@@ -70,7 +70,7 @@ public class A extends Fragment {
      return mBinding.getRoot();
     }
 
-
+// probando ramas
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
