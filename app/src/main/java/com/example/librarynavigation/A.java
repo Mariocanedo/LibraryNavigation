@@ -18,7 +18,10 @@ import com.example.librarynavigation.databinding.FragmentABinding;
  * Use the {@link A#newInstance} factory method to
  * create an instance of this fragment.
  */
+
 public class A extends Fragment {
+
+
 
    private FragmentABinding mBinding;
 
